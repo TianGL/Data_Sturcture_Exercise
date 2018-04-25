@@ -1,9 +1,12 @@
-//
-// Created by TGL on 2017/11/23.
+/********************************************************************************************************************
+ * Created by Geliang Tian on 2017/11/23. tglasd@163.com, gltian@bit.edu.cn
+ * Copyright (c) 2018. All rights reserved.
+ *********************************************************************************************************************/
 ///计算Ackermann函数值，必然终止（超限数学归纳法 transfinite induction）
 //
 
 #include <cfloat>
+#include <w32api/sqltypes.h>
 
 __int64 Ackermann(int m, int n){
     if (m == 0) return n+1;

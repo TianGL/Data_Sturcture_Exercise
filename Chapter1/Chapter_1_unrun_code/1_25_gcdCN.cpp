@@ -1,10 +1,19 @@
-//
-// Created by TGL on 2017/11/23.
+/********************************************************************************************************************
+ * Created by Geliang Tian on 2017/11/23. tglasd@163.com, gltian@bit.edu.cn
+ * Copyright (c) 2018. All rights reserved.
+ *
+ * ISBN: 7-302-33064-6 & 7-302-33065-3 & 7-302-29652-2 & 7-302-26883-3
+ * Junhui DENG, deng@tsinghua.edu.cn
+ * Computer Science & Technology, Tsinghua University
+ * Copyright (c) 2006-2013. All rights reserved.
+ *********************************************************************************************************************/
 ///九章算术 “中华更相减损数”
 //
 
 #include <cfloat>
 #include <cmath>
+#include <w32api/sqltypes.h>
+
 
 __int64 gcdCN (__int64 a, __int64 b){//assert :0 < min(a,b)
     int r = 0;//a和b的2^r形式的公因子

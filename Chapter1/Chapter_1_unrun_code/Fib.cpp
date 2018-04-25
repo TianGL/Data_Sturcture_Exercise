@@ -1,8 +1,15 @@
-//
-// Created by TGL on 2017/11/23.
+/********************************************************************************************************************
+ * Created by Geliang Tian on 2017/11/23. tglasd@163.com, gltian@bit.edu.cn
+ * Copyright (c) 2018. All rights reserved.
+ *
+ * ISBN: 7-302-33064-6 & 7-302-33065-3 & 7-302-29652-2 & 7-302-26883-3
+ * Junhui DENG, deng@tsinghua.edu.cn
+ * Computer Science & Technology, Tsinghua University
+ * Copyright (c) 2006-2013. All rights reserved.
+ *********************************************************************************************************************/
 /** 计算Fibonacci数列的第n项(三种方法) */
 //
-
+#include <w32api/sqltypes.h>
 #include <cfloat>
 
 __int64 fibI( int n){//迭代法：O(n)

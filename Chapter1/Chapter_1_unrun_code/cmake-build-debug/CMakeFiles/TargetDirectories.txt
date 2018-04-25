@@ -1,3 +1,3 @@
-D:/AAAcode/Datas Structure/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Chapter_1_unrun_code.dir
-D:/AAAcode/Datas Structure/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/AAAcode/Datas Structure/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Chapter_1_unrun_code.dir
