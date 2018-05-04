@@ -18,6 +18,15 @@
 * 基础概念
 * 基础算法：递归等
 
+## 第二章 向量
+
+- Vector数据结构极其相关方法
+- bitmap结构及方法
+
+
+
+*_share和_unprint文件为邓老师的测试辅助文件，注释掉了部分内容，随着更新会逐步取消相关注释*
+
 # Data Sturcture Exercise
 
 The code of [Data Structures in C++(Junhui Deng, tshinghua university)](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/)
