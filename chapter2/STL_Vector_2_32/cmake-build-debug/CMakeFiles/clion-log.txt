@@ -1,0 +1,4 @@
+C:\Users\TGL\.CLion2017.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/cygdrive/c/Users/TGL/BITCloud Drive/Study/Datas Structure/Chapter2/STL_Vector_2_32"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/TGL/BITCloud Drive/Study/Datas Structure/Chapter2/STL_Vector_2_32/cmake-build-debug

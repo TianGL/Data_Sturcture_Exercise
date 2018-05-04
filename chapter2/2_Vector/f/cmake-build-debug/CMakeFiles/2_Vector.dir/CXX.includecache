@@ -1,0 +1,364 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector.h
+type_traits
+-
+Vector_implementatiom.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_implementatiom.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_deduplicate.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_disordered.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_find.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_implementatiom.h
+../../_share/release.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/release.h
+../../_share/util.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/util.h
+vector_bracket.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_bracket.h
+vector_assignment.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_assignment.h
+vector_constructor_by_copying.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_constructor_by_copying.h
+vector_expand.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_expand.h
+vector_shrink.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_shrink.h
+Vector_insert.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_insert.h
+vector_remove.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_remove.h
+vector_removeInterval.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_removeInterval.h
+Vector_disordered.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_disordered.h
+Vector_find.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_find.h
+Vector_search_binary_C.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_search_binary_C.h
+Vector_search_fibonaccian_B.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_search_fibonaccian_B.h
+Vector_search.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_search.h
+Vector_traverse.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_traverse.h
+Vector_unsort.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_unsort.h
+Vector_sort.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_sort.h
+vector_bubble.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_bubble.h
+vector_bubbleSort.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_bubbleSort.h
+vector_selectionSort.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_selectionSort.h
+vector_merge.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_merge.h
+vector_mergeSort.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_mergeSort.h
+vector_partition_B.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_partition_B.h
+vector_quickSort.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_quickSort.h
+vector_heapSort.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_heapSort.h
+Vector_uniquify.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_uniquify.h
+Vector_deduplicate.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_deduplicate.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_insert.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_search.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_search_binary_C.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_search_fibonaccian_B.h
+../../fibonacci/Fib.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/fibonacci/Fib.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_sort.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_traverse.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_uniquify.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_unsort.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/main.cpp
+vector_test.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_test.h
+algorithm
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/algorithm
+climits
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/climits
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/permute.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_assignment.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_bracket.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_bubble.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_bubbleSort.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_constructor_by_copying.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_expand.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_heapSort.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_merge.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_mergeSort.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_partition_B.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_quickSort.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_remove.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_removeInterval.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_selectionSort.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_shrink.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_test.h
+iostream
+-
+../../uniprint/print.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/uniprint/print.h
+../../_share/util.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/util.h
+Vector.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector.h
+permute.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/permute.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/checkOrder_Elem.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/checkOrder_list.h
+../list/list.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/list.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/checkOrder_vector.h
+../Chpater2/2_Vector/Vector.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/comparator.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/crc_Elem.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/crc_list.h
+../list/list.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/list.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/crc_vector.h
+../Chpater2/2_Vector/Vector.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/double_Elem.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/hailstone_Elem.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/increase_Elem.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/increase_list.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/increase_vector.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/rand.h
+stdlib.h
+-
+time.h
+-
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/release.h
+typeinfo
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/typeinfo
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/util.h
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+math.h
+-
+typeinfo
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/typeinfo
+comparator.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/comparator.h
+checkOrder_Elem.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/checkOrder_Elem.h
+checkOrder_list.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/checkOrder_list.h
+checkOrder_vector.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/checkOrder_vector.h
+double_Elem.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/double_Elem.h
+increase_Elem.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/increase_Elem.h
+hailstone_Elem.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/hailstone_Elem.h
+increase_list.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/increase_list.h
+increase_vector.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/increase_vector.h
+crc_Elem.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/crc_Elem.h
+crc_list.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/crc_list.h
+crc_vector.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/crc_vector.h
+rand.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/rand.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/fibonacci/Fib.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/ListNode.h
+listNode_implementation.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/listNode_implementation.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_bracket.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_clear.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_constructor_by_copying.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_copyNodes.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_deduplicate.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_destructor.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_find.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_implementation.h
+../_share/release.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/release.h
+../_share/util.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/_share/util.h
+ListNode.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/ListNode.h
+List_bracket.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_bracket.h
+List_initialize.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_initialize.h
+List_copyNodes.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_copyNodes.h
+List_constructor_by_copying.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_constructor_by_copying.h
+List_destructor.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_destructor.h
+list_disordered.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/list_disordered.h
+List_find.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_find.h
+List_search.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_search.h
+List_insert.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_insert.h
+List_remove.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_remove.h
+List_clear.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_clear.h
+List_traverse.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_traverse.h
+List_sort.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_sort.h
+List_insertionSort.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_insertionSort.h
+List_selectMax.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_selectMax.h
+List_selectionSort.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_selectionSort.h
+List_merge.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_merge.h
+List_mergeSort.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_mergeSort.h
+List_deduplicate.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_deduplicate.h
+List_uniquify.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_uniquify.h
+List_reverse1.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_reverse1.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_initialize.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_insert.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_insertionSort.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_merge.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_mergeSort.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_remove.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_reverse1.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_search.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_selectMax.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_selectionSort.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_sort.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_traverse.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_uniquify.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/list.h
+listNode.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/listNode.h
+List_implementation.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/List_implementation.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/listNode.h
+listNode_implementation.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/listNode_implementation.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/listNode_implementation.h
+listNode_insertAsSucc.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/listNode_insertAsSucc.h
+listNode_insertAsPred.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/listNode_insertAsPred.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/listNode_insertAsPred.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/listNode_insertAsSucc.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/list_disordered.h
+listNode.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/list/listNode.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/uniprint/Print_traversable.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/uniprint/print.h
+typeinfo
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/uniprint/typeinfo
+stdio.h
+-
+print_implementation.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/uniprint/print_implementation.h
+
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/uniprint/print_implementation.h
+Print_traversable.h
+C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/uniprint/Print_traversable.h
+
