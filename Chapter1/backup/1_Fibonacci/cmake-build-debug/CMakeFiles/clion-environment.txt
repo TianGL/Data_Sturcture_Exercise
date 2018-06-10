@@ -1,0 +1,3 @@
+ToolSet: 14.0@C:\Program Files (x86)\Microsoft Visual Studio 14.0
+Options: 
+CMake: 3.8.2@D:\CLion 2017.2.3\bin\cmake\bin\cmake.exe

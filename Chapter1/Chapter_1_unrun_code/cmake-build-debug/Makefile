@@ -48,10 +48,10 @@ RM = /cygdrive/c/Users/Geliang/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -E
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code"
+CMAKE_SOURCE_DIR = /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug"
+CMAKE_BINARY_DIR = /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles" "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -258,33 +258,6 @@ Chapter_1_unrun_code/fast:
 	$(MAKE) -f CMakeFiles/Chapter_1_unrun_code.dir/build.make CMakeFiles/Chapter_1_unrun_code.dir/1_29_Hailstone.cpp.s
 .PHONY : 1_29_Hailstone.cpp.s
 
-Fib.o: Fib.cpp.o
-
-.PHONY : Fib.o
-
-# target to build an object file
-Fib.cpp.o:
-	$(MAKE) -f CMakeFiles/Chapter_1_unrun_code.dir/build.make CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.o
-.PHONY : Fib.cpp.o
-
-Fib.i: Fib.cpp.i
-
-.PHONY : Fib.i
-
-# target to preprocess a source file
-Fib.cpp.i:
-	$(MAKE) -f CMakeFiles/Chapter_1_unrun_code.dir/build.make CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.i
-.PHONY : Fib.cpp.i
-
-Fib.s: Fib.cpp.s
-
-.PHONY : Fib.s
-
-# target to generate assembly for a file
-Fib.cpp.s:
-	$(MAKE) -f CMakeFiles/Chapter_1_unrun_code.dir/build.make CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.s
-.PHONY : Fib.cpp.s
-
 Fun1_12.o: Fun1_12.cpp.o
 
 .PHONY : Fun1_12.o
@@ -420,33 +393,6 @@ Fun1_7.cpp.s:
 	$(MAKE) -f CMakeFiles/Chapter_1_unrun_code.dir/build.make CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.s
 .PHONY : Fun1_7.cpp.s
 
-main.o: main.cpp.o
-
-.PHONY : main.o
-
-# target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/Chapter_1_unrun_code.dir/build.make CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.o
-.PHONY : main.cpp.o
-
-main.i: main.cpp.i
-
-.PHONY : main.i
-
-# target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/Chapter_1_unrun_code.dir/build.make CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.i
-.PHONY : main.cpp.i
-
-main.s: main.cpp.s
-
-.PHONY : main.s
-
-# target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/Chapter_1_unrun_code.dir/build.make CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.s
-.PHONY : main.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -471,9 +417,6 @@ help:
 	@echo "... 1_29_Hailstone.o"
 	@echo "... 1_29_Hailstone.i"
 	@echo "... 1_29_Hailstone.s"
-	@echo "... Fib.o"
-	@echo "... Fib.i"
-	@echo "... Fib.s"
 	@echo "... Fun1_12.o"
 	@echo "... Fun1_12.i"
 	@echo "... Fun1_12.s"
@@ -489,9 +432,6 @@ help:
 	@echo "... Fun1_7.o"
 	@echo "... Fun1_7.i"
 	@echo "... Fun1_7.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
 .PHONY : help
 
 

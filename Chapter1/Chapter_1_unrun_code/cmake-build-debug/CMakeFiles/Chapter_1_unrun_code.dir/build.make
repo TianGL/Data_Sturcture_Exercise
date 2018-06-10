@@ -43,10 +43,10 @@ RM = /cygdrive/c/Users/Geliang/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -E
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code"
+CMAKE_SOURCE_DIR = /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug"
+CMAKE_BINARY_DIR = /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Chapter_1_unrun_code.dir/depend.make
@@ -57,42 +57,18 @@ include CMakeFiles/Chapter_1_unrun_code.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Chapter_1_unrun_code.dir/flags.make
 
-CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.o: CMakeFiles/Chapter_1_unrun_code.dir/flags.make
-CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.o -c "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/main.cpp"
-
-CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/main.cpp" > CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.i
-
-CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/main.cpp" -o CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.s
-
-CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.o.requires:
-
-.PHONY : CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.o.requires
-
-CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.o.provides: CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Chapter_1_unrun_code.dir/build.make CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.o.provides.build
-.PHONY : CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.o.provides
-
-CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.o.provides.build: CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.o
-
-
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.o: CMakeFiles/Chapter_1_unrun_code.dir/flags.make
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.o: ../Fun1_7.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.o -c "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/Fun1_7.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.o -c /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/Fun1_7.cpp
 
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/Fun1_7.cpp" > CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/Fun1_7.cpp > CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.i
 
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/Fun1_7.cpp" -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/Fun1_7.cpp -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.s
 
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.o.requires:
 
@@ -107,16 +83,16 @@ CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.o.provides.build: CMakeFiles/Chap
 
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.o: CMakeFiles/Chapter_1_unrun_code.dir/flags.make
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.o: ../Fun1_12.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.o -c "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/Fun1_12.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.o -c /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/Fun1_12.cpp
 
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/Fun1_12.cpp" > CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/Fun1_12.cpp > CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.i
 
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/Fun1_12.cpp" -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/Fun1_12.cpp -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.s
 
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.o.requires:
 
@@ -131,16 +107,16 @@ CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.o.provides.build: CMakeFiles/Cha
 
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.o: CMakeFiles/Chapter_1_unrun_code.dir/flags.make
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.o: ../Fun1_14.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.o -c "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/Fun1_14.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.o -c /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/Fun1_14.cpp
 
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/Fun1_14.cpp" > CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/Fun1_14.cpp > CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.i
 
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/Fun1_14.cpp" -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/Fun1_14.cpp -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.s
 
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.o.requires:
 
@@ -155,16 +131,16 @@ CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.o.provides.build: CMakeFiles/Cha
 
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.o: CMakeFiles/Chapter_1_unrun_code.dir/flags.make
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.o: ../Fun1_13.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.o -c "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/Fun1_13.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.o -c /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/Fun1_13.cpp
 
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/Fun1_13.cpp" > CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/Fun1_13.cpp > CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.i
 
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/Fun1_13.cpp" -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/Fun1_13.cpp -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.s
 
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.o.requires:
 
@@ -179,16 +155,16 @@ CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.o.provides.build: CMakeFiles/Cha
 
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.o: CMakeFiles/Chapter_1_unrun_code.dir/flags.make
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.o: ../Fun1_15.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.o -c "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/Fun1_15.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.o -c /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/Fun1_15.cpp
 
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/Fun1_15.cpp" > CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/Fun1_15.cpp > CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.i
 
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/Fun1_15.cpp" -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/Fun1_15.cpp -o CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.s
 
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.o.requires:
 
@@ -201,42 +177,18 @@ CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.o.provides: CMakeFiles/Chapter_1
 CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.o.provides.build: CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.o
 
 
-CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.o: CMakeFiles/Chapter_1_unrun_code.dir/flags.make
-CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.o: ../Fib.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.o -c "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/Fib.cpp"
-
-CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/Fib.cpp" > CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.i
-
-CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/Fib.cpp" -o CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.s
-
-CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.o.requires:
-
-.PHONY : CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.o.requires
-
-CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.o.provides: CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Chapter_1_unrun_code.dir/build.make CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.o.provides.build
-.PHONY : CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.o.provides
-
-CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.o.provides.build: CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.o
-
-
 CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.o: CMakeFiles/Chapter_1_unrun_code.dir/flags.make
 CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.o: ../1_23_Hanoi.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.o -c "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/1_23_Hanoi.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.o -c /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/1_23_Hanoi.cpp
 
 CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/1_23_Hanoi.cpp" > CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/1_23_Hanoi.cpp > CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.i
 
 CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/1_23_Hanoi.cpp" -o CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/1_23_Hanoi.cpp -o CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.s
 
 CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.o.requires:
 
@@ -251,16 +203,16 @@ CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.o.provides.build: CMakeFiles/
 
 CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.o: CMakeFiles/Chapter_1_unrun_code.dir/flags.make
 CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.o: ../1_25_gcdCN.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.o -c "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/1_25_gcdCN.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.o -c /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/1_25_gcdCN.cpp
 
 CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/1_25_gcdCN.cpp" > CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/1_25_gcdCN.cpp > CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.i
 
 CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/1_25_gcdCN.cpp" -o CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/1_25_gcdCN.cpp -o CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.s
 
 CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.o.requires:
 
@@ -275,16 +227,16 @@ CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.o.provides.build: CMakeFiles/
 
 CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.o: CMakeFiles/Chapter_1_unrun_code.dir/flags.make
 CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.o: ../1_26_shift2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.o -c "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/1_26_shift2.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.o -c /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/1_26_shift2.cpp
 
 CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/1_26_shift2.cpp" > CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/1_26_shift2.cpp > CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.i
 
 CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/1_26_shift2.cpp" -o CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/1_26_shift2.cpp -o CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.s
 
 CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.o.requires:
 
@@ -299,16 +251,16 @@ CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.o.provides.build: CMakeFiles
 
 CMakeFiles/Chapter_1_unrun_code.dir/1_27_Ackermann.cpp.o: CMakeFiles/Chapter_1_unrun_code.dir/flags.make
 CMakeFiles/Chapter_1_unrun_code.dir/1_27_Ackermann.cpp.o: ../1_27_Ackermann.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/1_27_Ackermann.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/1_27_Ackermann.cpp.o -c "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/1_27_Ackermann.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/1_27_Ackermann.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/1_27_Ackermann.cpp.o -c /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/1_27_Ackermann.cpp
 
 CMakeFiles/Chapter_1_unrun_code.dir/1_27_Ackermann.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter_1_unrun_code.dir/1_27_Ackermann.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/1_27_Ackermann.cpp" > CMakeFiles/Chapter_1_unrun_code.dir/1_27_Ackermann.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/1_27_Ackermann.cpp > CMakeFiles/Chapter_1_unrun_code.dir/1_27_Ackermann.cpp.i
 
 CMakeFiles/Chapter_1_unrun_code.dir/1_27_Ackermann.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter_1_unrun_code.dir/1_27_Ackermann.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/1_27_Ackermann.cpp" -o CMakeFiles/Chapter_1_unrun_code.dir/1_27_Ackermann.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/1_27_Ackermann.cpp -o CMakeFiles/Chapter_1_unrun_code.dir/1_27_Ackermann.cpp.s
 
 CMakeFiles/Chapter_1_unrun_code.dir/1_27_Ackermann.cpp.o.requires:
 
@@ -323,16 +275,16 @@ CMakeFiles/Chapter_1_unrun_code.dir/1_27_Ackermann.cpp.o.provides.build: CMakeFi
 
 CMakeFiles/Chapter_1_unrun_code.dir/1_29_Hailstone.cpp.o: CMakeFiles/Chapter_1_unrun_code.dir/flags.make
 CMakeFiles/Chapter_1_unrun_code.dir/1_29_Hailstone.cpp.o: ../1_29_Hailstone.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/1_29_Hailstone.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/1_29_Hailstone.cpp.o -c "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/1_29_Hailstone.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Chapter_1_unrun_code.dir/1_29_Hailstone.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter_1_unrun_code.dir/1_29_Hailstone.cpp.o -c /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/1_29_Hailstone.cpp
 
 CMakeFiles/Chapter_1_unrun_code.dir/1_29_Hailstone.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter_1_unrun_code.dir/1_29_Hailstone.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/1_29_Hailstone.cpp" > CMakeFiles/Chapter_1_unrun_code.dir/1_29_Hailstone.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/1_29_Hailstone.cpp > CMakeFiles/Chapter_1_unrun_code.dir/1_29_Hailstone.cpp.i
 
 CMakeFiles/Chapter_1_unrun_code.dir/1_29_Hailstone.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter_1_unrun_code.dir/1_29_Hailstone.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/1_29_Hailstone.cpp" -o CMakeFiles/Chapter_1_unrun_code.dir/1_29_Hailstone.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/1_29_Hailstone.cpp -o CMakeFiles/Chapter_1_unrun_code.dir/1_29_Hailstone.cpp.s
 
 CMakeFiles/Chapter_1_unrun_code.dir/1_29_Hailstone.cpp.o.requires:
 
@@ -347,13 +299,11 @@ CMakeFiles/Chapter_1_unrun_code.dir/1_29_Hailstone.cpp.o.provides.build: CMakeFi
 
 # Object files for target Chapter_1_unrun_code
 Chapter_1_unrun_code_OBJECTS = \
-"CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.o" \
 "CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.o" \
 "CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.o" \
 "CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.o" \
 "CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.o" \
 "CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.o" \
-"CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.o" \
 "CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.o" \
 "CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.o" \
 "CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.o" \
@@ -363,13 +313,11 @@ Chapter_1_unrun_code_OBJECTS = \
 # External object files for target Chapter_1_unrun_code
 Chapter_1_unrun_code_EXTERNAL_OBJECTS =
 
-Chapter_1_unrun_code.exe: CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.o
 Chapter_1_unrun_code.exe: CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.o
 Chapter_1_unrun_code.exe: CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.o
 Chapter_1_unrun_code.exe: CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.o
 Chapter_1_unrun_code.exe: CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.o
 Chapter_1_unrun_code.exe: CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.o
-Chapter_1_unrun_code.exe: CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.o
 Chapter_1_unrun_code.exe: CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.o
 Chapter_1_unrun_code.exe: CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.o
 Chapter_1_unrun_code.exe: CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.o
@@ -377,7 +325,7 @@ Chapter_1_unrun_code.exe: CMakeFiles/Chapter_1_unrun_code.dir/1_27_Ackermann.cpp
 Chapter_1_unrun_code.exe: CMakeFiles/Chapter_1_unrun_code.dir/1_29_Hailstone.cpp.o
 Chapter_1_unrun_code.exe: CMakeFiles/Chapter_1_unrun_code.dir/build.make
 Chapter_1_unrun_code.exe: CMakeFiles/Chapter_1_unrun_code.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable Chapter_1_unrun_code.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable Chapter_1_unrun_code.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Chapter_1_unrun_code.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -385,13 +333,11 @@ CMakeFiles/Chapter_1_unrun_code.dir/build: Chapter_1_unrun_code.exe
 
 .PHONY : CMakeFiles/Chapter_1_unrun_code.dir/build
 
-CMakeFiles/Chapter_1_unrun_code.dir/requires: CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.o.requires
 CMakeFiles/Chapter_1_unrun_code.dir/requires: CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.o.requires
 CMakeFiles/Chapter_1_unrun_code.dir/requires: CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.o.requires
 CMakeFiles/Chapter_1_unrun_code.dir/requires: CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.o.requires
 CMakeFiles/Chapter_1_unrun_code.dir/requires: CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.o.requires
 CMakeFiles/Chapter_1_unrun_code.dir/requires: CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.o.requires
-CMakeFiles/Chapter_1_unrun_code.dir/requires: CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.o.requires
 CMakeFiles/Chapter_1_unrun_code.dir/requires: CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.o.requires
 CMakeFiles/Chapter_1_unrun_code.dir/requires: CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.o.requires
 CMakeFiles/Chapter_1_unrun_code.dir/requires: CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.o.requires
@@ -405,6 +351,6 @@ CMakeFiles/Chapter_1_unrun_code.dir/clean:
 .PHONY : CMakeFiles/Chapter_1_unrun_code.dir/clean
 
 CMakeFiles/Chapter_1_unrun_code.dir/depend:
-	cd "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code" "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code" "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug" "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug" "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Chapter_1_unrun_code.dir/DependInfo.cmake" --color=$(COLOR)
+	cd /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Chapter_1_unrun_code.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Chapter_1_unrun_code.dir/depend
 

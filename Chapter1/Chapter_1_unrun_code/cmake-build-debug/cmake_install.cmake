@@ -1,4 +1,4 @@
-# Install script for directory: /cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code
+# Install script for directory: /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter1/Chapter_1_unrun_code/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter1/Chapter_1_unrun_code/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,11 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Chapter_1_unrun_code.dir/main.cpp.o"
   "CMakeFiles/Chapter_1_unrun_code.dir/Fun1_7.cpp.o"
   "CMakeFiles/Chapter_1_unrun_code.dir/Fun1_12.cpp.o"
   "CMakeFiles/Chapter_1_unrun_code.dir/Fun1_14.cpp.o"
   "CMakeFiles/Chapter_1_unrun_code.dir/Fun1_13.cpp.o"
   "CMakeFiles/Chapter_1_unrun_code.dir/Fun1_15.cpp.o"
-  "CMakeFiles/Chapter_1_unrun_code.dir/Fib.cpp.o"
   "CMakeFiles/Chapter_1_unrun_code.dir/1_23_Hanoi.cpp.o"
   "CMakeFiles/Chapter_1_unrun_code.dir/1_25_gcdCN.cpp.o"
   "CMakeFiles/Chapter_1_unrun_code.dir/1_26_shift2.cpp.o"

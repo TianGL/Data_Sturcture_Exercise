@@ -10,8 +10,7 @@
 /** 二分递归求数组最大值 */
 //
 
-#include <stdlib.h>
-#include <w32api/ntdef.h>
+#include <cstdlib>
 
 
 int MaxR(int A[], int lo, int hi){//计算数组区间A[lo, hi）的最大值（二分递归）

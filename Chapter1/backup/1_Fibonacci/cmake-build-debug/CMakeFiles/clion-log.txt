@@ -1,0 +1,4 @@
+"D:\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" "D:\AAAcode\Datas Structure\1_Fibonacci"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/AAAcode/Datas Structure/1_Fibonacci/cmake-build-debug

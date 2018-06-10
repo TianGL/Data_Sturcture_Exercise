@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="1_Fibonacci" targetName="1_Fibonacci" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b246106a-afdf-4cf3-a3b2-dd77b07c2666" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/1_Fibonacci.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/1_Fibonacci.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/.idea/Chapter_1_unrun_code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/.idea/Chapter_1_unrun_code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/3.10.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/3.10.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/3.10.2/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/3.10.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/3.10.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/3.10.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeTmp/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeTmp/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeTmp/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/CMakeTmp/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Chapter_1_unrun_code.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Chapter_1_unrun_code.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Chapter_1_unrun_code.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Chapter_1_unrun_code.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Chapter_1_unrun_code.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Chapter_1_unrun_code.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Chapter_1_unrun_code.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Chapter_1_unrun_code.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Chapter_1_unrun_code.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Chapter_1_unrun_code.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Chapter_1_unrun_code.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Chapter_1_unrun_code.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Chapter_1_unrun_code.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Chapter_1_unrun_code.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/Chapter_1_unrun_code.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/Chapter_1_unrun_code.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_bubble.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_bubble.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_deduplicate.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_deduplicate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_disordered.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_disordered.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_find.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_find.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_implementatiom.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_implementatiom.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_insert.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_insert.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_search.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_search.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_search_binary_A.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_search_binary_A.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_search_binary_B.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_search_binary_B.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_search_binary_C.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_search_binary_C.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_search_fibonaccian_A.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_search_fibonaccian_A.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_search_fibonaccian_B.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_search_fibonaccian_B.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_sort.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_sort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_traverse.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_traverse.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_uniquify.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_uniquify.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_unsort.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/Vector_unsort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/2_Vector.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/2_Vector.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/2_Vector.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/2_Vector.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/2_Vector.exe.stackdump" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/2_Vector.exe.stackdump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/2_Vector.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/2_Vector.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/2_Vector.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/2_Vector.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/2_Vector.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/2_Vector.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/2_Vector.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/2_Vector.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/2_Vector.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/2_Vector.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/2_Vector.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/2_Vector.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/2_Vector.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/2_Vector.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/f/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/f/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/f/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/f/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/permute.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/permute.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_assignment.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_assignment.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_bracket.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_bracket.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_bubbleSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_bubbleSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_constructor_by_copying.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_constructor_by_copying.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_expand.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_expand.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_heapSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_heapSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_increase.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_increase.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_merge.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_merge.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_mergeSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_mergeSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_partition_B.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_partition_B.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_partition_a.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_partition_a.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_partition_a1.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_partition_a1.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_partition_b1.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_partition_b1.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_partition_c.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_partition_c.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_quickSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_quickSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_remove.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_remove.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_removeInterval.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_removeInterval.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_selectionSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_selectionSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_shrink.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_shrink.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_test.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/vector_test.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/.idea/Bitmap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/.idea/Bitmap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/bitmap.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/bitmap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/Bitmap.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/Bitmap.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/3.9.4/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/3.9.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/3.9.4/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/3.9.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/3.9.4/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/3.9.4/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/3.9.4/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/3.9.4/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeOutput (conflicted @DESKTOP-5OC7Q82 2018_01_07_22_36_21).log" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeOutput (conflicted @DESKTOP-5OC7Q82 2018_01_07_22_36_21).log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile2 (conflicted @DESKTOP-5OC7Q82 2018_01_07_22_36_20)" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile2 (conflicted @DESKTOP-5OC7Q82 2018_01_07_22_36_20)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/Makefile (conflicted @DESKTOP-5OC7Q82 2018_01_07_22_36_22)" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/Makefile (conflicted @DESKTOP-5OC7Q82 2018_01_07_22_36_22)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/Bitmap/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/Bitmap/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/3.9.4/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/3.9.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/3.9.4/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/3.9.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/3.9.4/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/3.9.4/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/3.9.4/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/3.9.4/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/STL_Vector_2_32.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/STL_Vector_2_32.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/STL_Vector_2_32.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/STL_Vector_2_32.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/STL_Vector_2_32.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/STL_Vector_2_32.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/STL_Vector_2_32.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/STL_Vector_2_32.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/STL_Vector_2_32.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/STL_Vector_2_32.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/STL_Vector_2_32.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/STL_Vector_2_32.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/STL_Vector_2_32.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/STL_Vector_2_32.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/STL_Vector_2_32.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/STL_Vector_2_32.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/STL_Vector_2_32/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/algo.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/algo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/algobase.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/algobase.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/algorithm" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/algorithm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/alloc.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/alloc.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/bitset" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/bitset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/bvector.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/bvector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/char_traits.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/char_traits.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/concept_checks.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/concept_checks.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/container_concepts.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/container_concepts.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/defalloc.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/defalloc.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/deque" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/deque" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/deque.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/deque.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/function.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/function.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/functional" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/functional" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/hash_map" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/hash_map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/hash_map.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/hash_map.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/hash_set" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/hash_set" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/hash_set.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/hash_set.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/hashtable.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/hashtable.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/heap.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/heap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/iterator" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/iterator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/iterator.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/iterator.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/limits" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/limits" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/list" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/list.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/list.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/map" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/map.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/map.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/memory" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/memory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/multimap.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/multimap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/multiset.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/multiset.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/numeric" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/numeric" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/pair.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/pair.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/pthread_alloc" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/pthread_alloc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/pthread_alloc.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/pthread_alloc.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/queue" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/queue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/rope" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/rope" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/rope.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/rope.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/ropeimpl.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/ropeimpl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/sequence_concepts.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/sequence_concepts.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/set" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/set" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/set.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/set.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/slist" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/slist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/slist.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/slist.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stack" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stack.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stack.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stdexcept" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stdexcept" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_algo.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_algo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_algobase.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_algobase.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_alloc.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_alloc.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_bvector.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_bvector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_config.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_config.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_construct.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_construct.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_ctraits_fns.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_ctraits_fns.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_deque.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_deque.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_exception.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_exception.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_function.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_function.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_hash_fun.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_hash_fun.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_hash_map.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_hash_map.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_hash_set.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_hash_set.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_hashtable.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_hashtable.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_heap.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_heap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_iterator.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_iterator.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_iterator_base.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_iterator_base.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_list.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_list.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_map.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_map.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_multimap.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_multimap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_multiset.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_multiset.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_numeric.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_numeric.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_pair.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_pair.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_queue.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_queue.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_range_errors.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_range_errors.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_raw_storage_iter.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_raw_storage_iter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_relops.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_relops.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_rope.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_rope.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_set.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_set.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_slist.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_slist.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_stack.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_stack.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_string_fwd.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_string_fwd.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_tempbuf.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_tempbuf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_threads.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_threads.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_tree.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_tree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_uninitialized.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_uninitialized.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/stl_vector.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/stl_vector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/string" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/string" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/tempbuf.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/tempbuf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/tree.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/tree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/type_traits.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/type_traits.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/utility" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/utility" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/valarray" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/valarray" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/vector" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/vector" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter2/stl/vector.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/stl/vector.h" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="cmake_install.cmake" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Fib.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fib.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fib.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fib.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="20" column="37" selection-start-line="20" selection-end-line="20" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ddd.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/fib.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1_Fibonacci" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1_Fibonacci" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chapter_1_unrun_code" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.1_Fibonacci">
+    <configuration name="1_Fibonacci" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1_Fibonacci" TARGET_NAME="1_Fibonacci" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="1_Fibonacci" RUN_TARGET_NAME="1_Fibonacci" />
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.1_Fibonacci" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b246106a-afdf-4cf3-a3b2-dd77b07c2666" name="Default" comment="" />
+      <created>1528634160597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528634160597</updated>
+      <workItem from="1528634162393" duration="3773000" />
+    </task>
+    <task id="LOCAL-00001" summary="Modify zhe codes in 1_Fibonacci, Chapter1">
+      <created>1528635606009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528635606009</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3773000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="697" height="775" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31866464" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.77529764" weight="0.32972136" />
+      <window_info anchor="bottom" id="CMake" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5007587" side_tool="true" visible="true" weight="0.3343799" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.32972136" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.49924126" visible="true" weight="0.3343799" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modify zhe codes in 1_Fibonacci, Chapter1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify zhe codes in 1_Fibonacci, Chapter1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ddd.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fib.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fib.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="20" column="37" selection-start-line="20" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

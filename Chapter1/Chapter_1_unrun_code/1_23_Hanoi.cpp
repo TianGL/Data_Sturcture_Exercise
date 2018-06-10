@@ -8,6 +8,7 @@
  * Copyright (c) 2006-2013. All rights reserved.
  *********************************************************************************************************************/
 
+
 //按照Hanoi规则2，将柱子Sx上的n只盘子，借助柱子Sy中转，转移到Sz上
 
 void hanoi(int n, Stack<Disk>& Sx, Stack<Disk>& Sy, Stack<Disk>& Sz){
