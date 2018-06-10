@@ -7,7 +7,7 @@
  * Computer Science & Technology, Tsinghua University
  * Copyright (c) 2006-2013. All rights reserved.
  *********************************************************************************************************************/
-///九章算术 “中华更相减损数”
+///九章算术 “中华更相减损术”
 //
 
 #include <cfloat>
