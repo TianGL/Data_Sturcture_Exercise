@@ -1,17 +1,17 @@
-# include <ctime>
+#include <ctime>
 #include <iostream>
 
 using namespace std;
 
 #include "Fib.h"
 
-__int64 fibI( int n);//迭代
-__int64 fib( int n);//二分递归
-__int64 fib( int n, __int64 &f);//线性递归
+long long fibI( int n);//迭代
+long long fib( int n);//二分递归
+long long fib( int n, long long &f);//线性递归
 
 int main(){
     int n;
-    cout<<"inputFibonacci order n =";
+    cout<<"inputFibonacci order n = ";
     cin >> n;
     printf("n = %d\n",n);
     if (2 > n) { printf("n is too small\n"); }
@@ -30,7 +30,7 @@ int main(){
     }
 
     printf ( "\n------------- Liner Recursion -------------\n" );
-    __int64 f0;
+    long long f0;
     for (int i = 0; i < n; ++i) {
         printf ("fib(%2d) = %lld\n", i, fib(i,f0));
     }
