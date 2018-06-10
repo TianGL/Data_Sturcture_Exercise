@@ -29,7 +29,7 @@ $\textcolor{red}{未完待续} $
 
     ​	`prev()`: 转至前一个Fib项目
 
-  * 三种计算fibonacci 的方法
+  * [三种计算fibonacci 的方法](/Chapter1/1_Fibonacci/fib.cpp)
 
     ​	迭代法`long long fibI( int n)`( $O(n)$ );
 
@@ -37,31 +37,31 @@ $\textcolor{red}{未完待续} $
 
     ​	线性递归`long long fib(int n, long long &prev)`( $O(n)$ )
 
-* Chapter_1_unrun_code: 习题程序
+* [Chapter_1_unrun_code](/Chapter1/Chapter_1_unrun_code): 习题程序
 
-  * Fun1_7: 包含循环、分支、子函数调用，甚至递归算法的样例程序
+  * [Fun1_7](/Chapter1/Chapter_1_unrun_code/Fun1_7.cpp): 包含循环、分支、子函数调用，甚至递归算法的样例程序
 
-  * Fun1_12: 统计整数二进制展开中数位1的总数 (两种方法) (邓老师提供里测试代码countones)
+  * [Fun1_12](/Chapter1/Chapter_1_unrun_code/Fun1_12.cpp): 统计整数二进制展开中数位1的总数 (两种方法) (邓老师提供里测试代码countones)
 
-  * Fun1_13: 幂函数2^n算法 (蛮力递归版本  $O(2^r)$ ) `//r为输入比特长度`
+  * [Fun1_13](/Chapter1/Chapter_1_unrun_code/Fun1_13.cpp): 幂函数2^n算法 (蛮力递归版本  $O(2^r)$ ) `//r为输入比特长度`
 
-  * Fun1_14: 幂函数2^n算法(优化迭代版本) $O(r)$ `//r为输入比特长度`
+  * [Fun1_14](/Chapter1/Chapter_1_unrun_code/Fun1_14.cpp): 幂函数2^n算法(优化迭代版本) $O(r)$ `//r为输入比特长度`
 
-  * Fun1_15: 计算数组区间A[lo, hi）的最大值（二分递归
+  * [Fun1_15](/Chapter1/Chapter_1_unrun_code/Fun1_15.cpp): 计算数组区间A[lo, hi）的最大值（二分递归
 
-  * 1_23_Hanoi: Hanoi问题
+  * [1_23_Hanoi: Hanoi](/Chapter1/Chapter_1_unrun_code/1_23_Hanoi.cpp)问题
 
-  * 1_25_gcdCN: 最大公约数为题
+  * [1_25_gcdCN](/Chapter1/Chapter_1_unrun_code/1_25_gcdCN.cpp): 最大公约数为题
 
     ​	九章算术 “中华更相减损数”gcdCN: $O( log(a+b) )$ 
 
     ​	欧式算法gcd: $O( log(a*b) )$
 
-  * 1_26_shift2: 将数组左循环k位
+  * [1_26_shift2](/Chapter1/Chapter_1_unrun_code/1_26_shift2.cpp): 将数组左循环k位
 
-  * 1_27: 计算Ackermann函数值
+  * [1_27_Ackermann](/Chapter1/Chapter_1_unrun_code/1_27_Ackermann.cpp): 计算Ackermann函数值
 
-  * 1_29: Hailstone 序列
+  * [1_29_Hailstone](/Chapter1/Chapter_1_unrun_code/1_29_Hailstone.cpp): Hailstone 序列
 
 ## 第二章 向量
 
