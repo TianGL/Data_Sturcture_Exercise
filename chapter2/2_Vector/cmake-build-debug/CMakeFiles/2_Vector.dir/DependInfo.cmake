@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/main.cpp" "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/cmake-build-debug/CMakeFiles/2_Vector.dir/main.cpp.o"
+  "/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/main.cpp" "/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/CMakeFiles/2_Vector.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

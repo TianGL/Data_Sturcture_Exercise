@@ -14,8 +14,6 @@
 #ifndef INC_2_VECTOR_VECTOR_DISORDERED_H
 #define INC_2_VECTOR_VECTOR_DISORDERED_H
 
-#pragma once
-
 template <typename T> int Vector<T>::disordered() const { //返回向量中逆序相邻元素对的总数
    int n = 0; //计数器
    for ( int i = 1; i < _size; i++ ) //逐一检查_size - 1对相邻元素

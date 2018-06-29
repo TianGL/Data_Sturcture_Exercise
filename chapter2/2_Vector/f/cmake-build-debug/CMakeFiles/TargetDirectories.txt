@@ -1,3 +1,0 @@
-C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/cmake-build-debug/CMakeFiles/2_Vector.dir
-C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/cmake-build-debug/CMakeFiles/edit_cache.dir

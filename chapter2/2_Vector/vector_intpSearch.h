@@ -7,7 +7,7 @@
 #ifndef INC_2_VECTOR_VECTOR_INTPSEARCH_H
 #define INC_2_VECTOR_VECTOR_INTPSEARCH_H
 
-
+//插值查找
 template <typename T> Rank Vector<T>::intpSearch(T const &e, Rank lo, Rank hi) const {
     Rank mi;
     while (lo < hi - 1){

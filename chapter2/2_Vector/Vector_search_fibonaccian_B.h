@@ -13,7 +13,6 @@
  ******************************************************************************************/
 #ifndef INC_2_VECTOR_VECTOR_SEARCH_FIBONACCIAN_B_H
 #define INC_2_VECTOR_VECTOR_SEARCH_FIBONACCIAN_B_H
-#pragma once
 
 #include "..\..\fibonacci\Fib.h" //引入Fib数列类
 // Fibonacci查找算法（版本B）：在有序向量的区间[lo, hi)内查找元素e，0 <= lo <= hi <= _size

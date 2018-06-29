@@ -14,7 +14,6 @@
 #ifndef INC_2_VECTOR_VECTOR_SELECTIONSORT_H
 #define INC_2_VECTOR_VECTOR_SELECTIONSORT_H
 
-#pragma once
 
 template <typename T> //向量选择排序
 void Vector<T>::selectionSort ( Rank lo, Rank hi ) { //assert: 0 < lo <= hi <= size

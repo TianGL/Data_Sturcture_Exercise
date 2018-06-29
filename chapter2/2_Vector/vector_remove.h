@@ -14,7 +14,6 @@
 #ifndef INC_2_VECTOR_VECTOR_REMOVE_H
 #define INC_2_VECTOR_VECTOR_REMOVE_H
 
-#pragma once
 
 template <typename T> T Vector<T>::remove ( Rank r ) { //删除向量中秩为r的元素，0 <= r < size
    T e = _elem[r]; //备份被删除元素

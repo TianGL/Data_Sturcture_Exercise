@@ -58,7 +58,7 @@ public:
     void expand( int k){ //若被访问的[k]出界，则扩容
         if (k < 8*N ) return;
         int oldN = N; char* oldM = M;
-        init( 2* k ); //家呗策略扩容
+        init( 2* k ); //加倍策略扩容
         memcpy( M, oldM, oldN ); delete [] oldM; //原数据转移至新空间
     }
     /*DSA*/

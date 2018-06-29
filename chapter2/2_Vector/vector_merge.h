@@ -14,7 +14,6 @@
 #ifndef INC_2_VECTOR_VECTOR_MERGE_H
 #define INC_2_VECTOR_VECTOR_MERGE_H
 
-#pragma once
 
 template <typename T> //有序向量的归并
 void Vector<T>::merge ( Rank lo, Rank mi, Rank hi ) { //各自有序的子向量[lo, mi)和[mi, hi)
@@ -27,7 +26,7 @@ void Vector<T>::merge ( Rank lo, Rank mi, Rank hi ) { //各自有序的子向量
 //      if ( ( k < lc ) && ( ! ( j < lb ) || ( C[k] <  B[j] ) ) ) A[i++] = C[k++];
    for (Rank i = 0, j = 0, k =0; j < lb;) {
       if ( (k < lc) && C[k]<B[j]) A[i++] = C[k++];
-      if ( (lc <= k) || B[j] <= C[k]) A[i++] = B[k++];
+      if ( (lc <= k) || B[j] <= C[k]) A[i++] = B[j++];
    }
    delete [] B; //释放临时空间B
 } //归并后得到完整的有序向量[lo, hi)

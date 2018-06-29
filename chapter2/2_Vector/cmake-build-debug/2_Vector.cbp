@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/cmake-build-debug"/>
+				<Option working_dir="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/cmake-build-debug"/>
+				<Option working_dir="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/cmake-build-debug"/>
+				<Option working_dir="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="2_Vector">
-				<Option output="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/cmake-build-debug/2_Vector.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/cmake-build-debug"/>
+				<Option output="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/2_Vector.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_Vector"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_Vector"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="2_Vector/fast">
-				<Option output="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/cmake-build-debug/2_Vector.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/cmake-build-debug"/>
+				<Option output="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/2_Vector.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,149 +73,149 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_Vector/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Geliang/BITCloud\ Drive/Study/Datas\ Structure/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_Vector/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/Exercise_2_22_Saddleback.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/Exercise_2_22_Saddleback.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/Vector.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/Vector.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/Vector_bubble.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/Vector_bubble.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/Vector_deduplicate.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/Vector_deduplicate.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/Vector_disordered.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/Vector_disordered.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/Vector_find.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/Vector_find.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/Vector_implementatiom.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/Vector_implementatiom.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/Vector_insert.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/Vector_insert.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/Vector_search.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/Vector_search.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/Vector_search_binary_A.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/Vector_search_binary_A.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/Vector_search_binary_B.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/Vector_search_binary_B.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/Vector_search_binary_C.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/Vector_search_binary_C.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/Vector_search_fibonaccian_A.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/Vector_search_fibonaccian_A.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/Vector_search_fibonaccian_B.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/Vector_search_fibonaccian_B.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/Vector_sort.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/Vector_sort.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/Vector_traverse.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/Vector_traverse.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/Vector_uniquify.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/Vector_uniquify.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/Vector_unsort.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/Vector_unsort.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/main.cpp">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/main.cpp">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/permute.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/permute.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_assignment.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_assignment.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_bracket.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_bracket.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_bubbleSort.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_bubbleSort.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_compare.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_compare.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_constructor_by_copying.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_constructor_by_copying.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_decrease.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_decrease.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_double.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_double.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_expSearch.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_expSearch.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_expand.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_expand.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_heapSort.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_heapSort.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_increase.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_increase.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_intpSearch.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_intpSearch.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_merge.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_merge.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_mergeSort.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_mergeSort.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_partition_B.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_partition_B.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_partition_a.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_partition_a.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_partition_a1.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_partition_a1.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_partition_b1.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_partition_b1.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_partition_c.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_partition_c.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_quickSort.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_quickSort.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_remove.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_remove.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_removeInterval.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_removeInterval.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_selectionSort.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_selectionSort.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_shrink.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_shrink.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/vector_test.h">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/vector_test.h">
 			<Option target="2_Vector"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/2_Vector/CMakeLists.txt">
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/2_Vector/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

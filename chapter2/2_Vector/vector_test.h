@@ -14,16 +14,15 @@
 
 #pragma once
 
-#include "typeinfo"
+#include <typeinfo>
 #include <iostream>
-#include "string"
+#include <string>
+#include <climits>
+
 using namespace std;
 
-#include "../../uniprint/print.h"
-
 #include "../../_share/util.h"
-
+#include "../../uniprint/print.h"
 #include "Vector.h"
-
 #include "permute.h"
 

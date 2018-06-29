@@ -14,8 +14,6 @@
 #ifndef INC_2_VECTOR_VECTOR_UNIQUIFY_H
 #define INC_2_VECTOR_VECTOR_UNIQUIFY_H
 
-#pragma once
-
 template <typename T> int Vector<T>::uniquify() { //有序向量重复元素剔除算法（高效版）
    Rank i = 0, j = 0; //各对互异“相邻”元素的秩
    while ( ++j < _size ) //逐一扫描，直至末元素

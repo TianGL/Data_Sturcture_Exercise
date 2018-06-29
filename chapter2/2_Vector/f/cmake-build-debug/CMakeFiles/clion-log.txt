@@ -1,4 +1,0 @@
-"C:\MyProgram\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" "C:\Users\Geliang\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector"
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/cmake-build-debug

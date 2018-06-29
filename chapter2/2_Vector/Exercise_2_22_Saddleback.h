@@ -6,7 +6,7 @@
 #ifndef INC_2_VECTOR_EXERCISE_2_22_SADDLEBACK_H
 #define INC_2_VECTOR_EXERCISE_2_22_SADDLEBACK_H
 
-//saddleback search 马鞍查找
+// saddleback search 马鞍查找(伪代码)
 saddleback(int A[n][n], int x){
     int i = 0; //不变性：有效超找范围始终为左上角子矩阵A[i, n)[0,j)
     int j = binSearch(A[0][], x);//借助二分查找，在O(logn)时间内，从A癿第0行中不大于X的最大者

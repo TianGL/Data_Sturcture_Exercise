@@ -5,8 +5,6 @@
 #ifndef INC_2_VECTOR_VECTOR_BUBBLE_H
 #define INC_2_VECTOR_VECTOR_BUBBLE_H
 
-#pragma once
-
 template <typename T> bool Vector<T>::bubble ( Rank lo, Rank hi ) { //一趟扫描交换
    bool sorted = true; //整体有序标志
    while ( ++lo < hi ) //自左向右，逐一检查各对相邻元素

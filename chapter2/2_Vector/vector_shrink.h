@@ -14,7 +14,6 @@
 #ifndef INC_2_VECTOR_VECTOR_SHRINK_H
 #define INC_2_VECTOR_VECTOR_SHRINK_H
 
-#pragma once
 
 template <typename T> void Vector<T>::shrink() { //装填因子过小时压缩向量所占空间
    if ( _capacity < DEFAULT_CAPACITY << 1 ) return; //不致收缩到DEFAULT_CAPACITY以下

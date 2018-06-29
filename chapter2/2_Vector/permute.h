@@ -15,7 +15,6 @@
 #define INC_2_VECTOR_PERMUTE_H
 
 
-#pragma once
 
 template <typename T> void permute ( Vector<T>& V ) { //随机置乱向量，使各元素等概率出现于各位置
    for ( int i = V.size(); i > 0; i-- ) //自后向前

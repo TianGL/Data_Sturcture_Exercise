@@ -14,7 +14,6 @@
 #ifndef INC_2_VECTOR_VECTOR_REMOVEINTERVAL_H
 #define INC_2_VECTOR_VECTOR_REMOVEINTERVAL_H
 
-#pragma once
 
 template <typename T> int Vector<T>::remove ( Rank lo, Rank hi ) { //删除区间[lo, hi)
    if ( lo == hi ) return 0; //出于效率考虑，单独处理退化情况，比如remove(0, 0)

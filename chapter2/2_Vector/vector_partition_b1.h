@@ -13,7 +13,6 @@
  ******************************************************************************************/
 #ifndef INC_2_VECTOR_VECTOR_PARTITION_B1_H
 #define INC_2_VECTOR_VECTOR_PARTITION_B1_H
-#pragma once
 
 template <typename T> //轴点构造算法：通过调整元素位置构造区间[lo, hi]的轴点，并返回其秩
 Rank Vector<T>::partition ( Rank lo, Rank hi ) { //版本B1：版本B的等价形式，可直接转至与版本A等价的版本A1

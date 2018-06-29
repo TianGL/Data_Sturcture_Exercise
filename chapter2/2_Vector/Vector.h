@@ -15,9 +15,8 @@
 #ifndef INC_2_VECTOR_VECTOR_H
 #define INC_2_VECTOR_VECTOR_H
 
-#pragma once
 
-#include <type_traits>
+//#include <type_traits>
 
 typedef int Rank; //秩
 #define DEFAULT_CAPACITY 3 //默认初始容量
@@ -43,8 +42,7 @@ protected:
     void mergeSort(Rank lo, Rank hi); //归并排序算法
     Rank partition(Rank lo, Rank hi); //轴点构造算法
     void quickSort(Rank lo, Rank hi); //快速排序算法
-    //void heapSort(Rank lo, Rank hi); //堆排序
-
+    void heapSort(Rank lo, Rank hi); //堆排序
 public:
 //构造函数
     Vector(int c = DEFAULT_CAPACITY, int s = 0, T v = 0) //容量为c、规模为s、所有元素初始为v
@@ -68,14 +66,13 @@ public:
     Rank find(T const &e, Rank lo, Rank hi) const; //无序向量区间查找
     Rank search(T const &e) const //有序向量整体查找
     { return (_size <= 0) ? -1 : search(e, 0, _size); }
-
     Rank search(T const &e, Rank lo, Rank hi) const; //有序向量区间查找
     Rank expSearch(T const &e, Rank lo, Rank hi) const; //指数查找习题
     Rank intpSearch(T const &e, Rank lo, Rank hi) const; //差值查找2-24
 
 // 可写访问接口
     T &operator[](Rank r) const;//重新下载操作符，转为类似数组操作
-    Vector<T> &operator=(Vector<T> const &); //重载赋值操作符，便于直接克隆向量
+    Vector<T> & operator = ( Vector<T> const& ); //重载赋值操作符，便于直接克隆向量
     T remove ( Rank r); //删除秩为r的元素
     int remove ( Rank lo, Rank hi); //删除秩在区间[lo, hi)内的元素
     Rank insert ( Rank r, T const& e ); //插入元素

@@ -15,8 +15,6 @@
 #ifndef INC_2_VECTOR_VECTOR_BRACKET_H
 #define INC_2_VECTOR_VECTOR_BRACKET_H
 
-#pragma once
-
 template <typename T> T& Vector<T>::operator [] ( Rank r ) const //重载下标操作符
 { return _elem[r]; } // assert: 0 <= r < _size
 

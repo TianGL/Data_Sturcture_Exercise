@@ -14,7 +14,6 @@
 #ifndef INC_2_VECTOR_VECTOR_INSERT_H
 #define INC_2_VECTOR_VECTOR_INSERT_H
 
-#pragma once
 
 template <typename T> //将e作为秩为r元素插入
 Rank Vector<T>::insert ( Rank r, T const& e ) { //assert: 0 <= r <= size

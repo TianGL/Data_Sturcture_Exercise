@@ -13,7 +13,6 @@
 ******************************************************************************************/
 #ifndef INC_2_VECTOR_VECTOR_DEDUPLICATE_H
 #define INC_2_VECTOR_VECTOR_DEDUPLICATE_H
-#pragma once
 
 template <typename T> int Vector<T>::deduplicate() { //删除无序向量重复元
     int oldSize = _size; //记录原规模

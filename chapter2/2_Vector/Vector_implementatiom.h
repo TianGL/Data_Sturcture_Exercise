@@ -11,16 +11,15 @@
  * Copyright (c) 2006-2013. All rights reserved.
  ******************************************************************************************/
 
-#pragma once
+#ifndef INC_2_VECTOR_VECTOR_IMPLEMENTATION_H
+#define INC_2_VECTOR_VECTOR_IMPLEMENTATION_H
 
 /******************************************************************************************
  * 将vector各方法的实现部分，简洁地引入vector.h
  * 效果等同于将这些实现直接汇入vector.h
  * 在export尚未被编译器支持前，如此可将定义与实现分离，以便课程讲解
  ******************************************************************************************/
-#include "../../_share/release.h"
-#include "../../_share/util.h"
-#include "../../uniprint/print.h"
+
 
 #include "vector_bracket.h"
 #include "vector_assignment.h"
@@ -67,3 +66,5 @@
 //#include "vector_compare.h"
 #include "vector_expSearch.h"
 #include "vector_intpSearch.h"
+
+#endif //INC_2_VECTOR_VECTOR_IMPLEMENTATION_H

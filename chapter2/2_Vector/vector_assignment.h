@@ -14,8 +14,6 @@
 #ifndef INC_2_VECTOR_VECTOR_ASSIGNMENT_H
 #define INC_2_VECTOR_VECTOR_ASSIGNMENT_H
 
-#pragma once
-
 template <typename T> Vector<T>& Vector<T>::operator= ( Vector<T> const& V ) { //重载
    if ( _elem ) delete [] _elem; //释放原有内容
    copyFrom ( V._elem, 0, V.size() ); //整体复制

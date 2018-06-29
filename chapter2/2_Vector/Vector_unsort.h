@@ -14,7 +14,6 @@
 #ifndef INC_2_VECTOR_VECTOR_UNSORT_H
 #define INC_2_VECTOR_VECTOR_UNSORT_H
 
-#pragma once
 
 template <typename T> void Vector<T>::unsort ( Rank lo, Rank hi ) { //等概率随机置乱区间[lo, hi)
    T* V = _elem + lo; //将子向量_elem[lo, hi)视作另一向量V[0, hi - lo)

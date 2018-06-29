@@ -14,9 +14,6 @@
 #ifndef INC_2_VECTOR_VECTOR_MERGESORT_H
 #define INC_2_VECTOR_VECTOR_MERGESORT_H
 
-#pragma once
-
-#pragma once
 
 template <typename T> //向量归并排序
 void Vector<T>::mergeSort ( Rank lo, Rank hi ) { //0 <= lo < hi <= size

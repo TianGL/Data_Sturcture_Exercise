@@ -14,8 +14,6 @@
 #ifndef INC_2_VECTOR_VECTOR_BUBBLESORT_H
 #define INC_2_VECTOR_VECTOR_BUBBLESORT_H
 
-#pragma once
-
 template <typename T> //向量的起泡排序
 void Vector<T>::bubbleSort ( Rank lo, Rank hi ) //assert: 0 <= lo < hi <= size
 { while ( !bubble ( lo, hi-- ) ); } //逐趟做扫描交换，直至全序
