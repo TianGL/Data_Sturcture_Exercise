@@ -19,7 +19,7 @@ using namespace std;
 #include <stdlib.h>
 #include <time.h>
 #include <math.h>
-//#include <typeinfo.h>
+#include <typeinfo.h>
 #include "typeinfo"
 #include "crc_Elem.h"
 #include "comparator.h"

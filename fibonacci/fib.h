@@ -8,13 +8,13 @@
 
 #pragma once
 
-class Fib { //FibonacciÊıÁĞÀà
+class Fib { //Fibonacciæ•°åˆ—ç±»
 private:
-   int f, g; //f = fib(k - 1), g = fib(k)¡£¾ùÎªintĞÍ£¬ºÜ¿ì¾Í»áÊıÖµÒç³ö
+    int f, g; //f = fib(k - 1), g = fib(k)ã€‚å‡ä¸ºintå‹ï¼Œå¾ˆå¿«å°±ä¼šæ•°å€¼æº¢å‡º
 public:
-   Fib ( int n ) //³õÊ¼»¯Îª²»Ğ¡ÓÚnµÄ×îĞ¡FibonacciÏî
-   { f = 1; g = 0; while ( g < n ) next(); } //fib(-1), fib(0)£¬O(log_phi(n))Ê±¼ä
-   int get()  { return g; } //»ñÈ¡µ±Ç°FibonacciÏî£¬O(1)Ê±¼ä
-   int next() { g += f; f = g - f; return g; } //×ªÖÁÏÂÒ»FibonacciÏî£¬O(1)Ê±¼ä
-   int prev() { f = g - f; g -= f; return g; } //×ªÖÁÉÏÒ»FibonacciÏî£¬O(1)Ê±¼ä
+    Fib ( int n ) //åˆå§‹åŒ–ä¸ºä¸å°äºnçš„æœ€å°Fibonaccié¡¹
+    { f = 1; g = 0; while ( g < n ) next(); } //fib(-1), fib(0)ï¼ŒO(log_phi(n))æ—¶é—´
+    int get()  { return g; } //è·å–å½“å‰Fibonaccié¡¹ï¼ŒO(1)æ—¶é—´
+    int next() { g += f; f = g - f; return g; } //è½¬è‡³ä¸‹ä¸€Fibonaccié¡¹ï¼ŒO(1)æ—¶é—´
+    int prev() { f = g - f; g -= f; return g; } //è½¬è‡³ä¸Šä¸€Fibonaccié¡¹ï¼ŒO(1)æ—¶é—´
 };

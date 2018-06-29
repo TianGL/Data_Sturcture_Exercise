@@ -12,8 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b246106a-afdf-4cf3-a3b2-dd77b07c2666" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter_1_unrun_code/Fun1_7.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_1_unrun_code/Fun1_7.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../chapter2/2_Vector/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter2/2_Vector/.idea/workspace.xml" afterDir="false" />
@@ -329,7 +328,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -341,11 +339,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Chapter2/2_Vector" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
@@ -382,6 +381,7 @@
       <updated>1528634160597</updated>
       <workItem from="1528634162393" duration="3773000" />
       <workItem from="1530110339022" duration="18000" />
+      <workItem from="1530110656188" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="Modify zhe codes in 1_Fibonacci, Chapter1">
       <created>1528635606009</created>
@@ -394,7 +394,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3791000" />
+    <option name="totallyTimeSpent" value="3818000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -402,8 +402,8 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15625" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="CMake" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5014881" side_tool="true" visible="true" weight="0.32972136" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4985119" visible="true" weight="0.32972136" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50223213" side_tool="true" visible="true" weight="0.32972136" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49776787" visible="true" weight="0.32972136" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.32972136" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -430,6 +430,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="Modify zhe codes in 1_Fibonacci, Chapter1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Fib.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fib.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="37" selection-start-line="20" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Fib.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
