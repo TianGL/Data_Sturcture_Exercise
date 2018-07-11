@@ -1,3 +1,0 @@
-/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
-/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/Bitmap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_7a31e.dir

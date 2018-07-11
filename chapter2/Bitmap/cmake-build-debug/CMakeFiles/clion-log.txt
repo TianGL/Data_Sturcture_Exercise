@@ -1,4 +1,4 @@
-C:\Users\Geliang\.CLion2018.1\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/Bitmap"
+C:\Users\Geliang\.CLion2018.1\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/Bitmap
 -- The C compiler identification is GNU 6.4.0
 -- The CXX compiler identification is GNU 6.4.0
 -- Check for working C compiler: /usr/bin/cc
@@ -15,4 +15,4 @@ C:\Users\Geliang\.CLion2018.1\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TY
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/Bitmap/cmake-build-debug
+-- Build files have been written to: /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/Bitmap/cmake-build-debug

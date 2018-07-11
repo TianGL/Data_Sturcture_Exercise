@@ -54,10 +54,10 @@ RM = /cygdrive/c/Users/Geliang/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -E
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/Bitmap"
+CMAKE_SOURCE_DIR = /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/Bitmap
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/Bitmap/cmake-build-debug"
+CMAKE_BINARY_DIR = /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/Bitmap/cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/Bitmap.dir
@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structu
 CMakeFiles/Bitmap.dir/all:
 	$(MAKE) -f CMakeFiles/Bitmap.dir/build.make CMakeFiles/Bitmap.dir/depend
 	$(MAKE) -f CMakeFiles/Bitmap.dir/build.make CMakeFiles/Bitmap.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/Bitmap/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target Bitmap"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/Bitmap/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Bitmap"
 .PHONY : CMakeFiles/Bitmap.dir/all
 
 # Include target in all.
@@ -76,9 +76,9 @@ all: CMakeFiles/Bitmap.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Bitmap.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/Bitmap/cmake-build-debug/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/Bitmap/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Bitmap.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/Geliang/BITCloud Drive/Study/Datas Structure/Chapter2/Bitmap/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/Bitmap/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Bitmap.dir/rule
 
 # Convenience name for target.
