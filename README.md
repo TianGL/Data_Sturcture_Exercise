@@ -151,7 +151,21 @@
 
 - bitmap结构及方法
 
+## 第十一章 字符串匹配
 
+- [string pattern match](/Chpter11/string_pm/)测试程序(match函数未定义)
+  - [string_pm_test.h](/Chpter11/string_pm/string_pm_test.h): 测试头文件
+  - [string_pm_test.cpp](/Chpter11/string_pm/string_pm_test.cpp): 测试主函数
+- [Brute-force](/Chpter11/string_pm/)算法：两种，复杂度相同
+- [KMP](/Chpter11/pm_kmp/)算法
+  - [pm_kmp.cpp](/Chpter11/pm_kmp/pm_kmp.cpp)
+    - `int match ( char* P, char* T )` //kmp算法
+  - [pm_kmp_next.cpp](/Chpter11/pm_kmp/pm_kmp_next.cpp)
+    - `int* buildNext ( char* P )` //构造模式串P的next表
+  - [pm_kmp_next_improved.cpp](/Chpter11/pm_kmp/pm_kmp_next_improved.cpp)
+    - `int* buildNext ( char* P )` //改进next表，去重
+
+​	
 
 *_share和_unprint文件为邓老师的测试辅助文件，注释掉了部分内容，随着更新会逐步取消相关注释*
 
