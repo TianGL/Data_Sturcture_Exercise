@@ -149,7 +149,11 @@
   * [Exercise_2_22_Saddleback.h](/Chpter2/2_Vector/Exercise_2_22_Saddleback.h) 
     - `saddleback(int A[n][n], int x)` // saddleback search 马鞍查找(伪代码)
 
-- bitmap结构及方法
+- [bitmap](/Chpter2/Bitmap/)结构及方法
+  - [bitmap.h](/Chapter2/Bitmap/bitmap.h) // 位图Bitmap类
+  - [bitmap_o1_init_set_only.h ](/Chapter2/Bitmap/bitmap_o1_init_set_only.h)// 位图Bitmap类：以空间作为补偿，节省初始化时间（仅允许插入，不支持删除）
+  - [bitmap_o1_init.h ](/Chapter2/Bitmap/[bitmap_o1_init.h) // 位图Bitmap类：以空间作为补偿，节省初始化时间（既允许插入，亦支持删除）
+  - [Eratosthenes.h](/Chapter2/Bitmap/Eratosthenes.h) // 筛选法求素数
 
 ## 第十一章 字符串匹配
 
@@ -165,7 +169,7 @@
   - [pm_kmp_next_improved.cpp](/Chpter11/pm_kmp/pm_kmp_next_improved.cpp)
     - `int* buildNext ( char* P )` //改进next表，去重
 
-​	
+		
 
 *_share和_unprint文件为邓老师的测试辅助文件，注释掉了部分内容，随着更新会逐步取消相关注释*
 
