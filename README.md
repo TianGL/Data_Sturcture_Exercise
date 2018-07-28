@@ -65,91 +65,91 @@
 
 ## 第二章 向量
 
-* [Vector](/Chpter2/2_Vector/)数据结构极其相关方法
-  * [main.cpp](/Chpter2/2_Vector/): 测试程序 **(iussues unsolved)**
-  * [Vector.h](/Chpter2/2_Vector/Vector.h): vector模板类
-  * [Vector_implementatiom.h](/Chpter2/2_Vector/Vector_implementatiom.h):  引入vector各方法的实现头文件
-  * [vector_bracket.h](/Chpter2/2_Vector/vector_bracket.h):  
+* [Vector](/Chapter2/2_Vector/)数据结构极其相关方法
+  * [main.cpp](/Chapter2/2_Vector/): 测试程序 **(iussues unsolved)**
+  * [Vector.h](/Chapter2/2_Vector/Vector.h): vector模板类
+  * [Vector_implementatiom.h](/Chapter2/2_Vector/Vector_implementatiom.h):  引入vector各方法的实现头文件
+  * [vector_bracket.h](/Chapter2/2_Vector/vector_bracket.h):  
     * `T &operator[](Rank r) const`//重载下标操作符`[]`，可以通过`vecotr[]`访问向量中的元素
-  * [vector_assignment.h](/Chpter2/2_Vector/vector_assignment.h):  `Vector<T> & operator = ( Vector<T> const& )`//重载下标操作符`=`，可以通过`vecotr[]`访问向量中的元素
-  * [vector_constructor_by_copying.h](/Chpter2/2_Vector/vector_constructor_by_copying.h)
+  * [vector_assignment.h](/Chapter2/2_Vector/vector_assignment.h):  `Vector<T> & operator = ( Vector<T> const& )`//重载下标操作符`=`，可以通过`vecotr[]`访问向量中的元素
+  * [vector_constructor_by_copying.h](/Chapter2/2_Vector/vector_constructor_by_copying.h)
     * `void copyFrom(T const *A, Rank lo, Rank hi)`//复制数组区间`A[lo,hi]`
-  * [vector_expand.h](/Chpter2/2_Vector/vector_expand.h)
+  * [vector_expand.h](/Chapter2/2_Vector/vector_expand.h)
     - `void expand() //空间不足时扩容(翻倍)
-  * [vector_shrink.h](/Chpter2/2_Vector/vector_shrink.h)
+  * [vector_shrink.h](/Chapter2/2_Vector/vector_shrink.h)
     - `void shrink()` //填装因子过小时压缩(减半)
-  * [Vector_insert.h](/Chpter2/2_Vector/Vector_insert.h)
+  * [Vector_insert.h](/Chapter/2_Vector/Vector_insert.h)
     - `Rank insert ( Rank r, T const& e )` //插入元素
-  * [vector_remove.h](/Chpter2/2_Vector/vector_remove.h)
+  * [vector_remove.h](/Chapter/2_Vector/vector_remove.h)
     -  `T remove ( Rank r)` //删除秩为`r`的元素
-  * [vector_removeInterval.h](/Chpter2/2_Vector/vector_removeInterval.h)
+  * [vector_removeInterval.h](/Chapter/2_Vector/vector_removeInterval.h)
     - `Rank insert ( Rank r, T const& e )` //插入元素
-  * [vector_removeInterval.h](/Chpter2/2_Vector/vector_removeInterval.h)
+  * [vector_removeInterval.h](/Chapter/2_Vector/vector_removeInterval.h)
     - `int remove ( Rank lo, Rank hi)` //删除秩在区间`[lo, hi)`内的元素
-  * [Vector_disordered.h](/Chpter2/2_Vector/Vector_disordered.h)
+  * [Vector_disordered.h](/Chapter/2_Vector/Vector_disordered.h)
     - `int disordered() const` //判断向量是否以排序，返回向量中逆序相邻元素对的总数
-  * [Vector_find.h](/Chpter2/2_Vector/Vector_find.h)
+  * [Vector_find.h](/Chapter/2_Vector/Vector_find.h)
     - `Rank find(T const &e, Rank lo, Rank hi) const` //无序向量区间查找
-  * [Vector_search_binary_A.h](/Chpter2/2_Vector/Vector_search_binary_A.h)
+  * [Vector_search_binary_A.h](/Chapter/2_Vector/Vector_search_binary_A.h)
     - `Rank binSearch ( T* A, T const& e, Rank lo, Rank hi )` //二分查找算法（版本A）：在有序向量的区间`[lo, hi)`内查找元素`e`，`0 <= lo <= hi <= _size`，3个判断条件`e=V[mid], e.g.`
-  * [Vector_search_binary_B.h](/Chpter2/2_Vector/Vector_search_binary_B.h)
+  * [Vector_search_binary_B.h](/Chapter/2_Vector/Vector_search_binary_B.h)
     - `Rank binSearch ( T* A, T const& e, Rank lo, Rank hi )` //二分查找算法（版本B），2个判断条件`e<V[mid], e.g.`
-  * [Vector_search_binary_C.h](/Chpter2/2_Vector/Vector_search_binary_C.h)
+  * [Vector_search_binary_C.h](/Chapter/2_Vector/Vector_search_binary_C.h)
     - `Rank binSearch ( T* A, T const& e, Rank lo, Rank hi )` //二分查找算法（版本A）：2个判断条件`e<V[mid], e.g.`，有多个命中元素时，总能保证返回秩最大者
-  * [Vector_search_fibonaccian_A.h](/Chpter2/2_Vector/Vector_search_binary_C.h)
+  * [Vector_search_fibonaccian_A.h](/Chapter/2_Vector/Vector_search_binary_C.h)
     - `Rank fibSearch ( T* A, T const& e, Rank lo, Rank hi )` //Fibonacci查找算法（版本A）：在有序向量的区间`[lo, hi)`内查找元素`e`，`0 <= lo <= hi <= _size`
-  * [Vector_search_fibonaccian_A.h](/Chpter2/2_Vector/Vector_search_binary_C.h)
+  * [Vector_search_fibonaccian_A.h](/Chapter/2_Vector/Vector_search_binary_C.h)
     - `Rank fibSearch ( T* A, T const& e, Rank lo, Rank hi )` //Fibonacci查找算法（版本A）：在有序向量的区间`[lo, hi)`内查找元素`e`，`0 <= lo <= hi <= _size`，3个判断条件(包含等于)，利用fibonacci是的左右分支更为平衡
-  * [Vector_search_fibonaccian_B.h](/Chpter2/2_Vector/Vector_search_binary_C.h)
+  * [Vector_search_fibonaccian_B.h](/Chapter/2_Vector/Vector_search_binary_C.h)
     - `Rank fibSearch ( T* A, T const& e, Rank lo, Rank hi )` //Fibonacci查找算法（版本A）：2个判断条件(不含等于)，利用fibonacci是的左右分支更为平衡
-  * [Vector_search.h](/Chpter2/2_Vector/Vector_search.h)
+  * [Vector_search.h](/Chapter/2_Vector/Vector_search.h)
     - ` Rank search(T const &e, Rank lo, Rank hi) const` //随机选用binary search或者fibonacci search
-  * [Vector_traverse.h](/Chpter2/2_Vector/Vector_traverse.h)
+  * [Vector_traverse.h](/Chapter/2_Vector/Vector_traverse.h)
     - ` void traverse ( void (* ) ( T& ) )` //遍历（使用函数指针，只读或局部修改）
     - `template <typename VST> void traverse ( const VST& )` //遍历（使用函数对象，可全局修改）
-  * [Vector_unsort.h](/Chpter2/2_Vector/Vector_unsort.h)
+  * [Vector_unsort.h](/Chapter/2_Vector/Vector_unsort.h)
     - `void unsort ( Rank lo, Rank hi)` //等概率随机置乱区间[lo, hi)
-  * [Vector_sort.h](/Chpter2/2_Vector/Vector_sort.h)
+  * [Vector_sort.h](/Chapter/2_Vector/Vector_sort.h)
     - `void unsort ( Rank lo, Rank hi)` //向量区间[lo, hi)排序，随机选取排序算法
-  * [vector_bubble.h](/Chpter2/2_Vector/vector_bubble.h)
+  * [vector_bubble.h](/Chapter/2_Vector/vector_bubble.h)
     - `bool bubble ( Rank lo, Rank hi )` //冒泡排序一趟扫描，有序标志位
     - `Rank bubbleB ( Rank lo, Rank hi )` //冒泡排序一趟扫描改进(习题2-25)，记录向右最后一个逆序元素
     - `Rank bubbleC ( Rank lo, Rank hi )` //冒泡排序一趟扫描改进(习题2-25)，记录向左最后一个逆序元素(右向左扫描)
-  * [vector_bubbleSort.h](/Chpter2/2_Vector/vector_bubbleSort.h)
+  * [vector_bubbleSort.h](/Chapter/2_Vector/vector_bubbleSort.h)
     - `void bubbleSort(Rank lo, Rank hi)` //冒泡排序
     - `void bubbleSortB(Rank lo, Rank hi)` //冒泡排序一趟扫描改进B(习题2-25)
     - `void bubbleSortC(Rank lo, Rank hi` //冒泡排序一趟扫描改进C(习题2-25)
-  * [vector_selectionSort.h](/Chpter2/2_Vector/vector_selectionSort.h)
+  * [vector_selectionSort.h](/Chapter/2_Vector/vector_selectionSort.h)
     - `void selectionSort ( Rank lo, Rank hi )` //选择排序
-  * [vector_merge.h](/Chpter2/2_Vector/vector_merge.h)
+  * [vector_merge.h](/Chapter/2_Vector/vector_merge.h)
     - `void merge(Rank lo, Rank mi, Rank hi)` //归并算法
     - `void mergeUniquify(Rank lo, Rank mi, Rank hi)` //归并去重算法
-  * [vector_partition_a.h](/Chpter2/2_Vector/vector_partition_a.h) //向量快速排序轴点构造算法a
-  * [vector_partition_a1.h](/Chpter2/2_Vector/vector_partition_a.h) //向量快速排序轴点构造算法a1，与a等价
-  * [vector_partition_b.h](/Chpter2/2_Vector/vector_partition_b.h) //向量快速排序轴点构造算法b，可优化处理多个关键码雷同的退化情况
-  * [vector_partition_b2.h](/Chpter2/2_Vector/vector_partition_b2.h) //向量快速排序轴点构造算法b1，等价b
-  * [vector_partition_c.h](/Chpter2/2_Vector/vector_partition_c.h) //向量快速排序轴点构造算法c，尽可能保持稳定
-  * [vector_heapSort.h](/Chpter2/2_Vector/vector_heapSort.h) //向量快速排序轴点构造算法c，尽可能保持稳定
-  * [Vector_uniquify.h](/Chpter2/2_Vector/Vector_uniquify.h) 
+  * [vector_partition_a.h](/Chapter/2_Vector/vector_partition_a.h) //向量快速排序轴点构造算法a
+  * [vector_partition_a1.h](/Chapter/2_Vector/vector_partition_a.h) //向量快速排序轴点构造算法a1，与a等价
+  * [vector_partition_b.h](/Chapter/2_Vector/vector_partition_b.h) //向量快速排序轴点构造算法b，可优化处理多个关键码雷同的退化情况
+  * [vector_partition_b2.h](/Chapter/2_Vector/vector_partition_b2.h) //向量快速排序轴点构造算法b1，等价b
+  * [vector_partition_c.h](/Chapter/2_Vector/vector_partition_c.h) //向量快速排序轴点构造算法c，尽可能保持稳定
+  * [vector_heapSort.h](/Chapter/2_Vector/vector_heapSort.h) //向量快速排序轴点构造算法c，尽可能保持稳定
+  * [Vector_uniquify.h](/Chapter/2_Vector/Vector_uniquify.h) 
     * `int Vector<T>::uniquify() `  //有序向量重复元素剔除算法
-  * [Vector_deduplicate.h](/Chpter2/2_Vector/Vector_deduplicate.h) 
+  * [Vector_deduplicate.h](/Chapter/2_Vector/Vector_deduplicate.h) 
     - `int deduplicate() `  //删除无序向量重复元
     - `int deduplicateB() `  //删除无序向量重复元，算法B，按互异元素块
     - `int deduplicate( Rank lo, Rank hi) `   //删除无序向量重复元素O(nlogn)
-  * [vector_increase.h](/Chpter2/2_Vector/vector_increase.h) 
+  * [vector_increase.h](/Chapter/2_Vector/vector_increase.h) 
     - `void increase(Vector<T>& V) `  //元素+1，函数对象方法
-  * [vector_decrease.h](/Chpter2/2_Vector/vector_decrease.h) 
+  * [vector_decrease.h](/Chapter/2_Vector/vector_decrease.h) 
     - `void decrease(Vector<T>& V) `  //元素-1，函数对象方法
-  * [vector_double.h](/Chpter2/2_Vector/vector_decrease.h) 
+  * [vector_double.h](/Chapter/2_Vector/vector_decrease.h) 
     - `void _double(Vector<T> & V) `  //元素*2，函数对象方法
-  * [vector_expSearch.h](/Chpter2/2_Vector/vector_expSearch.h) 
+  * [vector_expSearch.h](/Chapter/2_Vector/vector_expSearch.h) 
     - `Rank expSearch(T const &e, Rank lo, Rank hi) const` //指数查找习题
-  * [vector_expSearch.h](/Chpter2/2_Vector/vector_expSearch.h) 
+  * [vector_expSearch.h](/Chapter/2_Vector/vector_expSearch.h) 
     - `Rank intpSearch(T const &e, Rank lo, Rank hi) const` //差值查找2-24
-  * [Exercise_2_22_Saddleback.h](/Chpter2/2_Vector/Exercise_2_22_Saddleback.h) 
+  * [Exercise_2_22_Saddleback.h](/Chapter/2_Vector/Exercise_2_22_Saddleback.h) 
     - `saddleback(int A[n][n], int x)` // saddleback search 马鞍查找(伪代码)
 
-- [bitmap](/Chpter2/Bitmap/)结构及方法
+- [bitmap](/Chapter/Bitmap/)结构及方法
   - [bitmap.h](/Chapter2/Bitmap/bitmap.h) // 位图Bitmap类
   - [bitmap_o1_init_set_only.h ](/Chapter2/Bitmap/bitmap_o1_init_set_only.h)// 位图Bitmap类：以空间作为补偿，节省初始化时间（仅允许插入，不支持删除）
   - [bitmap_o1_init.h ](/Chapter2/Bitmap/[bitmap_o1_init.h) // 位图Bitmap类：以空间作为补偿，节省初始化时间（既允许插入，亦支持删除）
