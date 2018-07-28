@@ -1,4 +1,0 @@
-ToolSet: 2.9.0@D:\Program Files\ToolChain\Cygwin
-Options: msvc.arch=x86
-
-Options:
