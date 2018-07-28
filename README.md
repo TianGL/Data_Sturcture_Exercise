@@ -66,7 +66,7 @@
 ## 第二章 向量
 
 * [Vector](/Chapter2/2_Vector/)数据结构极其相关方法
-  * [main.cpp](/Chapter2/2_Vector/): 测试程序 **(iussues unsolved)**
+  * [main.cpp](/Chapter2/2_Vector/main.cpp): 测试程序 **(iussues unsolved)**
   * [Vector.h](/Chapter2/2_Vector/Vector.h): vector模板类
   * [Vector_implementatiom.h](/Chapter2/2_Vector/Vector_implementatiom.h):  引入vector各方法的实现头文件
   * [vector_bracket.h](/Chapter2/2_Vector/vector_bracket.h):  
