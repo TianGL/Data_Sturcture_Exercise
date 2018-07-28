@@ -15,7 +15,7 @@
 #define BITMAP_ERATOSTHENES_H
 
 #include "bitmap.h"
-#include "algorithm"
+#include <algorithm>
 /******************************************************************************************
  * 筛法求素数
  * 计算出不大于n的所有素数

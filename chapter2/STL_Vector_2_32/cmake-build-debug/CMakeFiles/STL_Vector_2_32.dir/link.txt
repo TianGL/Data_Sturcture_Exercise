@@ -1,1 +1,0 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/STL_Vector_2_32.dir/main.cpp.o  -o STL_Vector_2_32.exe -Wl,--out-implib,libSTL_Vector_2_32.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -16,16 +16,16 @@
 
 #pragma warning(disable : 4996 4800)
 
-#include "cstdlib"
-#include "cstdio"
-#include "memory.h"
+#include <cstdlib>
+#include <cstdio>
+#include <memory.h>
 #include "../../_share/release.h"
 
 #include "../2_Vector/Vector.h"
 
-class Bitmap { //位图Bitmap类：以空间作为补偿，节省初始化时间（既允许插入，亦支持删除）
-    Rank* F; Rank N; //规模为N的向量F，记录[k]被标记的次序（即其在栈T[]中的秩）
-    Rank* T; Rank top; //容量为N的栈T，记录被标记各位秩的栈，以及栈顶指针
+class Bitmap { // 位图Bitmap类：以空间作为补偿，节省初始化时间（既允许插入，亦支持删除）
+    Rank* F; Rank N; // 规模为N的向量F，记录[k]被标记的次序（即其在栈T[]中的秩）
+    Rank* T; Rank top; // 容量为N的栈T，记录被标记各位秩的栈，以及栈顶指针
 
 protected:
     inline bool valid (Rank r) { return (0 <= r) && ( r < top); }
@@ -34,14 +34,14 @@ protected:
     }
 
 public:
-    Bitmap(Rank n = 8){ //按指定规模创建比特图
-        N = n; F = new Rank[N]; T = new Rank[N]; top = 0; //在O(1)内时间隐式初始化
+    Bitmap(Rank n = 8){ // 按指定规模创建比特图
+        N = n; F = new Rank[N]; T = new Rank[N]; top = 0; // 在O(1)内时间隐式初始化
     }
-    ~Bitmap() { delete [] F; delete [] T;} //析构释放空间
+    ~Bitmap() { delete [] F; delete [] T;} // 析构释放空间
 
     //接口
-    inline void set(Rank k) { //插入
-        if (test(k)) return; //忽略已标记的位
+    inline void set(Rank k) { // 插入
+        if (test(k)) return; // 忽略已标记的位
         if (!erased(k)) F[k] = top++; //若系初次标记，则创建新的校验环
         T[ F[k] ] = k; //若系曾经被标记后被清除，则恢复原校验环
     }

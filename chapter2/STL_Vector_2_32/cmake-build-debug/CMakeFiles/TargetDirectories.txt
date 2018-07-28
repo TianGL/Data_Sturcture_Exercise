@@ -1,3 +1,0 @@
-/cygdrive/c/Users/TGL/BITCloud Drive/Study/Datas Structure/Chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/TGL/BITCloud Drive/Study/Datas Structure/Chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/c/Users/TGL/BITCloud Drive/Study/Datas Structure/Chapter2/STL_Vector_2_32/cmake-build-debug/CMakeFiles/STL_Vector_2_32.dir
