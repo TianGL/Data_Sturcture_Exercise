@@ -1,3 +1,0 @@
-/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/Bitmap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/Bitmap/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/Bitmap/cmake-build-debug/CMakeFiles/Bitmap.dir
