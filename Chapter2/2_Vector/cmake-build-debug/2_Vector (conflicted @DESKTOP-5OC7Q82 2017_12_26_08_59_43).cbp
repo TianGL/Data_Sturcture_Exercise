@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="2_Vector"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_Vector">
+				<Option output="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/cmake-build-debug/2_Vector.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\ATLMFC\INCLUDE"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.10240.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\8.1\include\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\8.1\include\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\8.1\include\\winrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 2_Vector"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_Vector/fast">
+				<Option output="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/cmake-build-debug/2_Vector.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\ATLMFC\INCLUDE"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.10240.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\8.1\include\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\8.1\include\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\8.1\include\\winrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 2_Vector/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\TGL\BITCloud Drive\Study\Datas Structure\Chpater2\2_Vector\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_bubble.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_deduplicate.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_disordered.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_find.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_implementatiom.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_insert.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_search.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_search_binary_A.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_search_binary_B.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_search_binary_C.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_search_fibonaccian_A.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_search_fibonaccian_B.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_sort.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_traverse.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_uniquify.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/Vector_unsort.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/main.cpp">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/permute.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/util.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_assignment.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_bracket.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_bubbleSort.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_constructor_by_copying.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_expand.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_heapSort.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_increase.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_merge.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_mergeSort.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_partition_B.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_partition_a.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_partition_a1.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_partition_b1.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_partition_c.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_quickSort.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_remove.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_removeInterval.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_selectionSort.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_shrink.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/vector_test.h">
+			<Option target="2_Vector"/>
+		</Unit>
+		<Unit filename="C:/Users/TGL/BITCloud Drive/Study/Datas Structure/Chpater2/2_Vector/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
