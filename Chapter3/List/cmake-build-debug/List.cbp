@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="List"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="List">
+				<Option output="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/List.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 List"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="List/fast">
+				<Option output="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/List.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 List/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/Josephus_3_19.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_bracket.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_clear.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_constructor_by_copying.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_copyNodes.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_deduplicate.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_destructor.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_disordered.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_find.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_half.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_implementation.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_increase.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_initialize.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_insert.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_insertionSort.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_merge.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_mergeSort.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_remove.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_reverse1.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_reverse2.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_reverse3.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_search.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_selectMax.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_selectionSort.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_sort.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_traverse.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/List_uniquify.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/listNode.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/listNode_implementation.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/listNode_insertAsPred.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/listNode_insertAsSucc.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/list_test.h">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/main.cpp">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter3/List/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
