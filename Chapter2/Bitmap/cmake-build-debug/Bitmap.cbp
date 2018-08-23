@@ -92,9 +92,6 @@
 		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/Bitmap/bitmap_o1_init_set_only.h">
 			<Option target="Bitmap"/>
 		</Unit>
-		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/Bitmap/main.cpp">
-			<Option target="Bitmap"/>
-		</Unit>
 		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter2/Bitmap/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
