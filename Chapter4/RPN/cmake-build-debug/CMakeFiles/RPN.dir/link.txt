@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/RPN.dir/main.cpp.o CMakeFiles/RPN.dir/rpn.cpp.o CMakeFiles/RPN.dir/caculation.cpp.o CMakeFiles/RPN.dir/append2rpn.cpp.o CMakeFiles/RPN.dir/priority.cpp.o CMakeFiles/RPN.dir/readnumber.cpp.o CMakeFiles/RPN.dir/displayprogress.cpp.o  -o RPN.exe -Wl,--out-implib,libRPN.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

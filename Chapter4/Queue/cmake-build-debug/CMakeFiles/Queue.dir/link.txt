@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Queue.dir/main.cpp.o  -o Queue.exe -Wl,--out-implib,libQueue.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Stack.dir/main.cpp.o CMakeFiles/Stack.dir/stackPermutation_4_3.cpp.o CMakeFiles/Stack.dir/parn_code_4_5.cpp.o  -o Stack.exe -Wl,--out-implib,libStack.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

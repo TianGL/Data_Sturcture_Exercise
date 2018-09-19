@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/queen_stack.dir/main.cpp.o CMakeFiles/queen_stack.dir/place_queens.cpp.o CMakeFiles/queen_stack.dir/display_progress.cpp.o  -o queen_stack.exe -Wl,--out-implib,libqueen_stack.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

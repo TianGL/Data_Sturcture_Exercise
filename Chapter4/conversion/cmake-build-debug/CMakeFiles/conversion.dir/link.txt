@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/conversion.dir/main.cpp.o CMakeFiles/conversion.dir/convert.cpp.o CMakeFiles/conversion.dir/convertB.cpp.o  -o conversion.exe -Wl,--out-implib,libconversion.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Stack"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Stack">
+				<Option output="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Stack.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 Stack"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Stack/fast">
+				<Option output="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Stack.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 Stack/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/Stack.h">
+			<Option target="Stack"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/main.cpp">
+			<Option target="Stack"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/parn_code_4_5.cpp">
+			<Option target="Stack"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/stack@list.h">
+			<Option target="Stack"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/stack@vector.h">
+			<Option target="Stack"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/stackPermutation_4_3.cpp">
+			<Option target="Stack"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/stack_test.h">
+			<Option target="Stack"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Git/Data_Sturcture_Exercise/Chapter4/Stack/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
