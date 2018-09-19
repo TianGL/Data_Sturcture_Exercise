@@ -319,60 +319,60 @@
 
 ## 第四章 队列和栈
 
-* [convsrsion](/Chpter4/convsrsion/): 进制转换
-  * [convert.h](/Chpter4/convsrsion/convert.cpp) // 利用栈进行进制转换
-  * [convertB.h](/Chpter4/convsrsion/convertB.cpp) // 十进制正整数n到base进制的转换（递归版）
+* [convsrsion](/Chapter4/convsrsion/): 进制转换
+  * [convert.h](/Chapter4/convsrsion/convert.cpp) // 利用栈进行进制转换
+  * [convertB.h](/Chapter4/convsrsion/convertB.cpp) // 十进制正整数n到base进制的转换（递归版）
 
-* [Stack](/Chpter4/Stack/): 栈类及方法
-  * [main.cpp](/Chpter4/Stack/main.cpp) // 测试程序
-  * [stack_test.h](/Chpter4/Stack/stack_test.h) // 测试头文件
-  * [Stack.h](/Chpter4/Stack/Stack.h) // 栈类
-  * [stack@vector.h](/Chpter4/Stack/stack@vector.h) // 以向量为基类，派生出的栈
+* [Stack](/Chapter4/Stack/): 栈类及方法
+  * [main.cpp](/Chapter4/Stack/main.cpp) // 测试程序
+  * [stack_test.h](/Chapter4/Stack/stack_test.h) // 测试头文件
+  * [Stack.h](/Chapter4/Stack/Stack.h) // 栈类
+  * [stack@vector.h](/Chapter4/Stack/stack@vector.h) // 以向量为基类，派生出的栈
     * `void push (T const& e) ` // 入栈
     * `T pop()` // 出栈
     * `T& top()` // 取顶
-  * [stack@list.h](/Chpter4/Stack/stack@list.h) // 以列表为基类，派生出栈模板类
+  * [stack@list.h](/Chapter4/Stack/stack@list.h) // 以列表为基类，派生出栈模板类
     * `void push (T const& e) ` // 入栈
     * `T pop()` // 出栈
     * `T& top()` // 取顶
-  * [parn_code_4_5.cpp](/Chpter4/Stack/parn_code_4_5.cpp) // 习题4-5括号匹配
-  * [stackPermutation_4_3.cpp](/Chpter4/Stack/stackPermutation_4_3.cpp) // 习题4-3
+  * [parn_code_4_5.cpp](/Chapter4/Stack/parn_code_4_5.cpp) // 习题4-5括号匹配
+  * [stackPermutation_4_3.cpp](/Chapter4/Stack/stackPermutation_4_3.cpp) // 习题4-3
 
-* [Queue](/Chpter4/Queue/): 队列类及方法
-  * [main.cpp](/Chpter4/Queue/main.cpp) // 测试程序
-  * [Queue_test.h](/Chpter4/Queue/Queue_test.h) // 测试头文件
-  * [Queue.h](/Chpter4/Queue/Queue.h) // 队列类
+* [Queue](/Chapter4/Queue/): 队列类及方法
+  * [main.cpp](/Chapter4/Queue/main.cpp) // 测试程序
+  * [Queue_test.h](/Chapter4/Queue/Queue_test.h) // 测试头文件
+  * [Queue.h](/Chapter4/Queue/Queue.h) // 队列类
     * `void enqueue(T const& e)` // 入队：尾部插入
     * `T dequeue()` // 出队：首部删除
     * `T & front()` // 队首
-* [RPN](/Chpter4/RPN/): 逆波兰表达式
-  * [main.cpp](/Chpter4/RPN/main.cpp) // 测试程序
+* [RPN](/Chapter4/RPN/): 逆波兰表达式
+  * [main.cpp](/Chapter4/RPN/main.cpp) // 测试程序
     * `char * removeSpace( char* s)` // 删除s[]中的空格
-  * [rpn.h](/Chpter4/RPN/rpn.h) // 逆波兰表达式方法
-  * [priority.h](/Chpter4/RPN/priority.h) // 运算符优先级设置
-  * [caculation.cpp](/Chpter4/RPN/caculation.cpp) // 计算
+  * [rpn.h](/Chapter4/RPN/rpn.h) // 逆波兰表达式方法
+  * [priority.h](/Chapter4/RPN/priority.h) // 运算符优先级设置
+  * [caculation.cpp](/Chapter4/RPN/caculation.cpp) // 计算
     * `float calcu(float a, char op, float b)` // 二元运算
     * `float calcu (char op, float b)` // 一元运算（阶乘）
-  * [displayprogress.cpp](/Chpter4/RPN/displayprogress.cpp) // 显示表达式处理进展
-  * [readnumber.cpp](/Chpter4/RPN/readnumber.cpp)
+  * [displayprogress.cpp](/Chapter4/RPN/displayprogress.cpp) // 显示表达式处理进展
+  * [readnumber.cpp](/Chapter4/RPN/readnumber.cpp)
     * `void readNumber( char*& p, Stack<float>& stk)` // 将起始于p的子串解析为数值，并存入操作数栈
-  * [priority.cpp](/Chpter4/RPN/priority.cpp)
+  * [priority.cpp](/Chapter4/RPN/priority.cpp)
     * `Operator optr2rank (char op)` // 由运算符转译出编号
     * `char orderBetween(char op1, char op2)`  // 比较两个运算符之间的优先级
-  * [append2rpn.cpp](/Chpter4/RPN/append2rpn.cpp)
+  * [append2rpn.cpp](/Chapter4/RPN/append2rpn.cpp)
     * `void append ( char*& rpn, float opnd)` // 将运算数接到RPN尾部
     * `void append(char*& rpn, char optr)` // 将运算符接至RPN末尾
-  * [rpn.cpp](/Chpter4/RPN/rpn.cpp)
+  * [rpn.cpp](/Chapter4/RPN/rpn.cpp)
     * `float evaluate (char *S, char*& RPN)` // 对（已剔除白空格的）表达式S求值，并转换为逆波兰式RPN
-* [queen_stack](/Chpter4/queen_stack/): n皇后问题
-  * [main.cpp](/Chpter4/queen_stack/main.cpp) // n皇后迭代版测试
-  * [queen_stack.h](/Chpter4/queen_stack/queen_stack.h) // 方法头文件
-  * [queen.h](/Chpter4/queen_stack/queen.h) // 皇后类
-  * [place_queens.cpp](/Chpter4/queen_stack/place_queens.cpp)  // N皇后算法（迭代版）：采用试探/回溯的策略，借助栈记录查找的结果
-  * [display_progress.cpp](/Chpter4/queen_stack/display_progress.cpp)
+* [queen_stack](/Chapter4/queen_stack/): n皇后问题
+  * [main.cpp](/Chapter4/queen_stack/main.cpp) // n皇后迭代版测试
+  * [queen_stack.h](/Chapter4/queen_stack/queen_stack.h) // 方法头文件
+  * [queen.h](/Chapter4/queen_stack/queen.h) // 皇后类
+  * [place_queens.cpp](/Chapter4/queen_stack/place_queens.cpp)  // N皇后算法（迭代版）：采用试探/回溯的策略，借助栈记录查找的结果
+  * [display_progress.cpp](/Chapter4/queen_stack/display_progress.cpp)
     * `void displayRow ( Queen& q ) `  // 打印当前皇后（放置于col列）所在行
     * `void displayProgress ( Stack<Queen>& S, int nQueen )` // 在棋盘上显示搜查的进展
-* [laby](/Chpter4/laby/): 迷宫问题
+* [laby](/Chapter4/laby/): 迷宫问题
 
 
 ## 第十一章 字符串匹配 
